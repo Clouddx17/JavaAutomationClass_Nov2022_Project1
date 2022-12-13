@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author thinkpad
- *
- */
-module javaOnlineClassesProjects {
-}
